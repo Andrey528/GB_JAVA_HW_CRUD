@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>Eml4Sem2CRUD</artifactId>
+	<artifactId>GB_Eml4Sem2CRUD</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Eml4Sem2CRUD</name>
 	<description>CRUD Application Spring</description>
